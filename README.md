@@ -1,7 +1,9 @@
 # Fake News Detection System 🔍
 
 A machine learning model to classify news articles as real or fake using NLP techniques.
+
 [Screenshot 2025-05-14 040727](https://github.com/user-attachments/assets/d2e08aeb-3da1-4037-951d-d9921df067be)
+
 [Screenshot 2025-05-14 040702](https://github.com/user-attachments/assets/a5faa372-4b8a-49c4-b20e-1d4bb0720716)
 
 
