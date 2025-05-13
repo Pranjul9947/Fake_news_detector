@@ -29,3 +29,6 @@ python -m nltk.downloader punkt stopwords wordnet!
 
 ## Other Resources
 (https://drive.google.com/file/d/10GcHo64vqYjtNXGT3fSOLwiwwGxT_CoT/view?usp=sharing)
+
+## To run
+Download the model and vectorizer files and then you can upload it to the running streamlit app and you're done
